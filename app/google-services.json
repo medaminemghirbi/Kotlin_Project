@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669243781811",
+    "project_id": "aziza-531c7",
+    "storage_bucket": "aziza-531c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669243781811:android:58ed9a369b76f8ba8ff6c6",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_formation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669243781811-5hpuq6ks22kh36s54l92dfotcrii9rgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCMCWRysL8a2C2lOiu4XMsaux106Gh8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669243781811-5hpuq6ks22kh36s54l92dfotcrii9rgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
