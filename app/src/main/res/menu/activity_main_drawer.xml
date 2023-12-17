@@ -25,6 +25,10 @@
             android:icon="@drawable/baseline_add_ic_call_24"
             android:title="@string/menu_call" />
         <item
+            android:id="@+id/nav_photos"
+            android:icon="@drawable/baseline_camera_enhance_24"
+            android:title="Gallerie"/>
+        <item
             android:id="@+id/nav_video"
             android:icon="@drawable/baseline_missed_video_call_24"
             android:title="Video"/>

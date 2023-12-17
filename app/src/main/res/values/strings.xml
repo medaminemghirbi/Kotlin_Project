@@ -17,6 +17,7 @@
     <string name="menu_call"> Make a call</string>
     <string name="menu_profile">Settings</string>
     <string name="menu_logout"> Logout</string>
+    <string name="menu_photos">Gallerie</string>
     <string name="menu_vedio">Vedio</string>
     <string name="phone">50122449</string>
     <string name="choiced_city">Ville sélectionnée :</string>
