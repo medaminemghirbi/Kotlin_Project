@@ -32,4 +32,14 @@
         android:name="com.example.kotlin_formation.ui.Call.CallFragment"
         android:label="@string/menu_call"
         tools:layout="@layout/fragment_call" />
+    <fragment
+        android:id="@+id/nav_video"
+        android:name="com.example.kotlin_formation.ui.video.VideoFragment"
+        android:label="@string/menu_vedio"
+        tools:layout="@layout/fragment_video" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.kotlin_formation.ui.profil.ProfilFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profil" />
 </navigation>
