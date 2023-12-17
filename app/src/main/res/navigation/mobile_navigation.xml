@@ -33,6 +33,11 @@
         android:label="@string/menu_call"
         tools:layout="@layout/fragment_call" />
     <fragment
+        android:id="@+id/nav_photos"
+        android:name="com.example.kotlin_formation.ui.photo.photoFragment"
+        android:label="@string/menu_photos"
+        tools:layout="@layout/fragment_photo" />
+    <fragment
         android:id="@+id/nav_video"
         android:name="com.example.kotlin_formation.ui.video.VideoFragment"
         android:label="@string/menu_vedio"
